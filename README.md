@@ -1,2 +1,2 @@
 # VESM2V-05CU-VERK5
-Loka verkefni fyrir VESM Skeletor
+Skýrsla fyrir VESM lokaverkefni Skeletor
