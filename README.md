@@ -271,3 +271,17 @@ asyncio.run(main_loop())Red.py…]()
 
 ```
 
+
+### Myndir
+![Snapchat-1713000634](https://github.com/user-attachments/assets/f642eef2-2bdd-4620-946a-3cdc0e96daa1)
+![20241211_163923](https://github.com/user-attachments/assets/125b22c9-9f70-4644-b3f7-9cc935404fb6)
+![20241211_163946](https://github.com/user-attachments/assets/5684ca9a-b3a1-40ef-a3ca-73e87cc7d6a9)
+![20241211_163928](https://github.com/user-attachments/assets/0f75f317-0248-4deb-8602-898b3ef0abd0)
+![20241211_163919](https://github.com/user-attachments/assets/fca6aa9c-d055-4198-aa58-e43778e33046)
+
+
+
+### Node Red Dashboard
+![Screenshot 2024-12-11 164705](https://github.com/user-attachments/assets/25230648-b10f-483f-80cf-91164458878f)
+![Screenshot 2024-12-11 164641](https://github.com/user-attachments/assets/7aee1ce0-efe3-402c-b1c6-befec8a143f7)
+
