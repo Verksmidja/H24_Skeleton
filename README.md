@@ -23,7 +23,7 @@ LED_PIN1 = 1
 LED_PIN2 = 2
 
 NUM_LEDS = 16
-
+```
 np1 = neopixel.NeoPixel(machine.Pin(LED_PIN1), NUM_LEDS)
 np2 = neopixel.NeoPixel(machine.Pin(LED_PIN2), NUM_LEDS)
 
@@ -41,5 +41,28 @@ while True:
     set_color1(100,0,0)
     set_color2(100,0,0)
     time.sleep(1)
+```
+
+### myndbönd af fígúru virknu
+
+https://github.com/user-attachments/assets/d8022402-78b4-43cd-b6e8-e1e72eb1d855
+
+
+
+https://github.com/user-attachments/assets/20c9660d-340b-40fa-b989-ced6a5d2ed37
+
+
+
+https://github.com/user-attachments/assets/535539dd-973e-4e56-8a5a-453d14cdaa2b
+
+
+
+https://github.com/user-attachments/assets/0325df02-2720-4f0e-bba4-5e11e1350630
+
+
+
+https://github.com/user-attachments/assets/024257ca-923d-4af8-86b0-559020ef86cf
+
+
 
 
