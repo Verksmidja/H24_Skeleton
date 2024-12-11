@@ -15,6 +15,7 @@ Hornin:
 https://github.com/user-attachments/assets/19f32ba3-851b-4b0d-a1e5-0e3f28e418a2
 
 ### Kóði fyrir hauskúpu:
+```
 import machine
 import neopixel
 import time
@@ -23,7 +24,7 @@ LED_PIN1 = 1
 LED_PIN2 = 2
 
 NUM_LEDS = 16
-```
+
 np1 = neopixel.NeoPixel(machine.Pin(LED_PIN1), NUM_LEDS)
 np2 = neopixel.NeoPixel(machine.Pin(LED_PIN2), NUM_LEDS)
 
