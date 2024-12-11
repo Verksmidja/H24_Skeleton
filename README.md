@@ -202,7 +202,7 @@ while True:
 
 
 ```
-### Kóða2 fyrir fígurin
+### Kóða2 fyrir fígurin og Verkefni 2 MP3 - Asyncio
 ```
 
 from machine import Pin, PWM, UART
