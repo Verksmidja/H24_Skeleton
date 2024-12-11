@@ -14,4 +14,32 @@ Hornin:
 ### ljós hjá augum:
 https://github.com/user-attachments/assets/19f32ba3-851b-4b0d-a1e5-0e3f28e418a2
 
+### Kóði fyrir hauskúpu:
+import machine
+import neopixel
+import time
+
+LED_PIN1 = 1
+LED_PIN2 = 2
+
+NUM_LEDS = 16
+
+np1 = neopixel.NeoPixel(machine.Pin(LED_PIN1), NUM_LEDS)
+np2 = neopixel.NeoPixel(machine.Pin(LED_PIN2), NUM_LEDS)
+
+def set_color1(r, g, b):
+    for i in range(NUM_LEDS):
+        np1[i] = (r, g, b)
+    np1.write()
+    
+def set_color2(r, g, b):
+    for i in range(NUM_LEDS):
+        np2[i] = (r, g, b)
+    np2.write()
+    
+while True:
+    set_color1(100,0,0)
+    set_color2(100,0,0)
+    time.sleep(1)
+
 
