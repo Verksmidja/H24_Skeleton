@@ -190,11 +190,6 @@ def sub_cb(topic, msg):
     except ValueError:
         print(f"Invalid message: {msg}. Could not convert to integer.")
 
-
-
-
-
-
 # Main loop
 connect_wifi()
 mqtt_client = setup_mqtt()
@@ -202,6 +197,9 @@ mqtt_client = setup_mqtt()
 while True:
     mqtt_client.check_msg()  # Listen for incoming messages
     time.sleep(1)
+
+```
+```
 
 from machine import Pin, PWM, UART
 import network
@@ -237,9 +235,6 @@ def setup_mqtt():
     client.subscribe("animatronic/Laugh")
     print("Subscribed to topics")
     return client
-
-```
-```
 
 Set up UART communication and DFPlayer
 uart = UART(2, baudrate=9600, tx=17, rx=16)  # TX=17, RX=16
