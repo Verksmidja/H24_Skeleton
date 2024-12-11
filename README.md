@@ -202,7 +202,7 @@ while True:
 
 
 ```
-### Kóða1 fyrir fígurin
+### Kóða2 fyrir fígurin
 ```
 
 from machine import Pin, PWM, UART
