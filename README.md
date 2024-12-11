@@ -286,5 +286,6 @@ asyncio.run(main_loop())Red.py…]()
 ![Screenshot 2024-12-11 164641](https://github.com/user-attachments/assets/7aee1ce0-efe3-402c-b1c6-befec8a143f7)
 
 ssh pi@10.201.48.85
+
 password: Verksm1dja
 
