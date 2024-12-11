@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/0325df02-2720-4f0e-bba4-5e11e1350630
 
 https://github.com/user-attachments/assets/024257ca-923d-4af8-86b0-559020ef86cf
 
-### Kóða fyrir fígurin
+### Kóða1 fyrir fígurin
 ```
 from machine import Pin, PWM
 import network
@@ -198,7 +198,11 @@ while True:
     mqtt_client.check_msg()  # Listen for incoming messages
     time.sleep(1)
 
+
+
+
 ```
+### Kóða1 fyrir fígurin
 ```
 
 from machine import Pin, PWM, UART
