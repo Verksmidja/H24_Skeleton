@@ -8,10 +8,6 @@ Skýrsla fyrir VESM lokaverkefni
 
 ## Prop (Havoc Staff):
 
-### Hauskúpan og augun:
-![hauskupa](https://github.com/user-attachments/assets/17bd8379-b5f3-4c81-9589-6efeb64a0566)
-![auga1](https://github.com/user-attachments/assets/86918624-4f54-40e2-9fd8-8931cb737b06)
-
 ### tilbúin hauskúpa:
 ![skull_Complete](https://github.com/user-attachments/assets/64579127-3733-49df-8e7a-f805896f02e4)
 
