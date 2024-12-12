@@ -1,10 +1,16 @@
 # Skeletor
 Skýrsla fyrir VESM lokaverkefni
 
+---
+
+![Snapchat-1713000634](https://github.com/user-attachments/assets/f642eef2-2bdd-4620-946a-3cdc0e96daa1)
+
+
 ## Prop (Havoc Staff):
 Hornin:
 ![horn2](https://github.com/user-attachments/assets/e1255b2a-f9e9-4a9c-84a6-65668f7f99c8)
 ![horn1](https://github.com/user-attachments/assets/90559643-ff0a-4ea8-985c-10225d9cfbfe)
+
 ## Hauskúpan og augun:
 ![hauskupa](https://github.com/user-attachments/assets/17bd8379-b5f3-4c81-9589-6efeb64a0566)
 ![auga1](https://github.com/user-attachments/assets/86918624-4f54-40e2-9fd8-8931cb737b06)
@@ -43,6 +49,8 @@ while True:
     set_color2(100,0,0)
     time.sleep(1)
 ```
+
+## Skeletor (fígúra)
 
 ### myndbönd af fígúru virknu
 
@@ -202,7 +210,7 @@ while True:
 
 
 ```
-### Kóða2 fyrir fígurin og Verkefni 2 MP3 - Asyncio
+### Kóða2 fyrir fígurin - MP3 - Asyncio
 ```
 
 from machine import Pin, PWM, UART
@@ -271,15 +279,7 @@ asyncio.run(main_loop())Red.py…]()
 
 ```
 
-
-### Myndir
-![Snapchat-1713000634](https://github.com/user-attachments/assets/f642eef2-2bdd-4620-946a-3cdc0e96daa1)
-![20241211_163923](https://github.com/user-attachments/assets/125b22c9-9f70-4644-b3f7-9cc935404fb6)
-![20241211_163946](https://github.com/user-attachments/assets/5684ca9a-b3a1-40ef-a3ca-73e87cc7d6a9)
-![20241211_163928](https://github.com/user-attachments/assets/0f75f317-0248-4deb-8602-898b3ef0abd0)
-![20241211_163919](https://github.com/user-attachments/assets/fca6aa9c-d055-4198-aa58-e43778e33046)
-
-
+---
 
 ### Node Red Dashboard
 ![Screenshot 2024-12-11 164705](https://github.com/user-attachments/assets/25230648-b10f-483f-80cf-91164458878f)
@@ -288,4 +288,14 @@ asyncio.run(main_loop())Red.py…]()
 ssh pi@10.201.48.85
 
 password: Verksm1dja
+
+---
+
+### Myndir
+![20241211_163923](https://github.com/user-attachments/assets/125b22c9-9f70-4644-b3f7-9cc935404fb6)
+![20241211_163946](https://github.com/user-attachments/assets/5684ca9a-b3a1-40ef-a3ca-73e87cc7d6a9)
+![20241211_163928](https://github.com/user-attachments/assets/0f75f317-0248-4deb-8602-898b3ef0abd0)
+![20241211_163919](https://github.com/user-attachments/assets/fca6aa9c-d055-4198-aa58-e43778e33046)
+
+
 
