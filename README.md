@@ -1,4 +1,4 @@
-# VESM2V-05CU-VERK5
+# Skeletor
 Skýrsla fyrir VESM loka verkefni Skeletor
 
 ## Prop (Havoc Staff):
