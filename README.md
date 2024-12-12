@@ -1,5 +1,5 @@
 # Skeletor
-Skýrsla fyrir VESM loka verkefni Skeletor
+Skýrsla fyrir VESM lokaverkefni
 
 ## Prop (Havoc Staff):
 Hornin:
